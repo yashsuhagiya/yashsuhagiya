@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 Distributed Systems Postgrad Student at ![TU Dresden](https://tu-dresden.de/)<br>🔭 I’m currently working on personal and organizational projects.<br>👯 I’m looking to collaborate on full-stack development.<br>🌱 I’m currently learning NextJs, TypeScript, Astro, and React.<br>⚡ Fun fact: I prefer tabs over spaces.
+📚 Distributed Systems Postgrad Student at [TU Dresden](https://tu-dresden.de/)<br>🔭 I’m currently working on personal and organizational projects.<br>👯 I’m looking to collaborate on full-stack development.<br>🌱 I’m currently learning NextJs, TypeScript, Astro, and React.<br>⚡ Fun fact: I prefer tabs over spaces.
 
 
 ## 🌐 Socials:
