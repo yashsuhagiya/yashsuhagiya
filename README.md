@@ -1,6 +1,8 @@
 <!--<p align="center"><a href="https://yashsuhagyia.github.io"><img width="80%" src="./assets/profile-name.gif" /></a></p>-->
 
-# About Me:
+# About Me: <div style="text-align: center;">
+  <img src="your_gif_url_here.gif" alt="Your GIF" style="border-radius: 50%; width: 150px; height: 150px;">
+</div>
 📚 I'm a Distributed Systems Postgrad Student at [TU Dresden](https://tu-dresden.de/).<br>🔭 I’m currently working on something cool. 😉<br> 🌱 I’m currently learning NextJs, TypeScript, Astro, and React. <br> 👯 Checkout my portfolio website [yashsuhagiya.me](https://yashsuhagiya.github.io).<br>⚡ Fun fact: I prefer tabs over spaces.
 
 
