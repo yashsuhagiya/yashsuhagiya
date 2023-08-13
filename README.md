@@ -1,4 +1,4 @@
-<p align="center"><a href="https://yashsuhagyia.me"><img width="80%" src="./assets/profile-name.gif" /></a></p>
+<p align="center"><a href="https://yashsuhagyia.me"><img width="80%" src="./assets/name.gif" /></a></p>
 <!--<p align="center">
   <img src="./assets/Profile photo gif light purple.gif" alt="Your GIF" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;">
 </p>-->
